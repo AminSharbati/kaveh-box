@@ -136,9 +136,15 @@
 
 ---
 
-## 📸 تصاویر
+## 📸 تصاویر برنامه
 
-تصاویر و اسکرین‌شات‌های برنامه در ادامه به مخزن اضافه خواهند شد.
+<p align="center">
+  <img src="screenshots/01-home.png" alt="صفحه اصلی کاوه" width="30%"/>
+  <img src="screenshots/02-tools.png" alt="ابزارهای کاوه" width="30%"/>
+  <img src="screenshots/03-tool.png" alt="یکی از ابزارهای کاوه" width="30%"/>
+</p>
+
+
 
 ---
 
